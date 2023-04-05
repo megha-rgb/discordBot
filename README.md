@@ -1,4 +1,4 @@
-# discordBot
+# Discord Bot
 
 ## WIP ##
 
