@@ -1,6 +1,5 @@
-# Discord Bot
-
-## WIP ##
+# Discord Bot (WIP)
+## Note: You must have the discord dependencies installed on your machine ##
 
 ## What is this? ##
 This is a simple discord bot that performs various tasks
