@@ -34,8 +34,8 @@ class VeggieBot():
             if response is not None:
                 await message.channel.send(response)
 
-
-        client.run('MTEwMTAwNjA1OTIzOTM3OTAwNA.GYziJQ.LuPKEdYOBGsMycK6IT-RaTh3iEB91FYL8HHEps')  #super secure, definitely no issue with having the key here
+        TOKEN = 'make ur own token'
+        client.run(TOKEN)  #super secure, definitely no issue with having the key here
 
 
             
