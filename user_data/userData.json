@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "name": "nick",
+            "birthday": "April 22nd, 2002",
+            "dicksize": "2 inches"
+        },
+        {
+            "name": "god",
+            "birthday": "forever ago",
+            "dicksize": "infinity inches"
+        }]
+}
